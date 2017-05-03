@@ -14,13 +14,13 @@ setting中选择detele this repository,重复确认
 linux
 
 5,Pwd是什么命令
-文件位置
+打开文件位置
 
 6,Cd是什么命令
-用户主目录
+改变目录
 
 7,Echo是什么命令
-是个批处理命令，功能是：打开回显或关闭请求回显功能，或显示消息。如果没有任何参数，echo 命令将显示当前回显设置。
+打印输出
 
 8,配置git用户名的命令
  git config --global user.name "youname"
