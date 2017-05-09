@@ -65,7 +65,7 @@ git commit -a -m [message]
 21，显示变更信息的命令
 git status
 
-22，查看历史信息的命令
+## 22，查看历史信息的命令
 git log
 
 23，Commit的意义是
